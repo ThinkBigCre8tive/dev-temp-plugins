@@ -1,0 +1,9 @@
+{
+  "name": "dev-temp/plugins",
+  "description": "Self-hosted version of plugins.",
+  "license": "proprietary",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
